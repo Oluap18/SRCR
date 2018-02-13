@@ -1,2 +1,7 @@
-# SRCR
-Projetos desenvolvidos em Sistemas de Representação de Conhecimento e Raciocinio
+Projetos desenvolvidos por:
+
+[Paulo Guedes](https://github.com/Oluap18)
+[João Miguel](http://jrsmiguel.me/)
+[Carlos Silva](https://github.com/CarSilva)
+[Bruno Machado](https://github.com/Axebutcher)
+[Gonçalo Leal](https://github.com/Harkeld)
