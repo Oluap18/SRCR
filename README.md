@@ -7,6 +7,6 @@ Projetos desenvolvidos por:
 
 -[Carlos Silva](https://github.com/CarSilva)
 
--[Bruno Machado](https://github.com/Axebutcher)
+-[Bruno Machado](https://github.com/BrunoSMachado)
 
 -[Gonçalo Leal](https://github.com/Harkeld)
